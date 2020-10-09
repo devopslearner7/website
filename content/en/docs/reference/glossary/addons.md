@@ -14,3 +14,4 @@ tags:
 
 <!--more-->
 [Installing addons](/docs/concepts/cluster-administration/addons/) explains more about using add-ons with your cluster, and lists some popular add-ons.
+website/content/en/docs/reference/kubectl/cheatsheet.md
